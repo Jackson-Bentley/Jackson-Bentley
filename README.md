@@ -1,4 +1,4 @@
-<br> About Me:
+About Me:
 <br> Hey, my name is Jackson Bentley. 
 <br> At this exact moment I'm going to Butte College.
 <br> Im working on my <b>Drafting And CAD Technology</b> degree.
